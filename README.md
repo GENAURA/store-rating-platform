@@ -95,3 +95,18 @@ store-rating-platform/
 │
 ├── .gitignore
 └── README.md
+## Setup
+
+### Requirements
+
+Make sure you have these installed:
+
+- Node.js 22+
+- npm
+- PostgreSQL 16+
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/GENAURA/store-rating-platform.git
+cd store-rating-platform
