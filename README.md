@@ -8,6 +8,17 @@ The application has three types of users:
 - Normal User
 - Store Owner
 
+
+### Short version
+
+```markdown
+## Demo Login Accounts
+
+| Role | Email | Password |
+|---|---|---|
+| Admin | `admin@example.com` | `Admin@123` |
+| Normal User | `user@example.com` | `User@123` |
+| Store Owner | `owner@example.com` | `Owner@123` |
 ## Tech Stack
 
 - Frontend: React.js, Vite, Axios, React Router
